@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I am Gagandeep Singh 👋
+
+## I'm a Product Engineer and a teacher. 
+
+- 🌱 I believe in the fact that software and languages are just the tools and the real crux lies in the deisgn and the UX built with the right empathy.
+- 🔭 I’m currently working on python and django based projects.
+- ⚡ My Hobby: I like to teach any thing I find interesting.
+- - 📫 How to reach me:
+  - Linked in - https://www.linkedin.com/in/gagan-deep-singh1/
+  - Twitter - https://twitter.com/here_is_gagan
 
 <!--
 **gagan-deep-singh1/gagan-deep-singh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
